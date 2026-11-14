@@ -29,6 +29,6 @@ g++ -std=c++17 -Wall -Wextra lexer.cpp -o lexer
 
 ## Team Members
 
-* *[Member 1 Name]*
-* *[Member 2 Name]*
-* *[Member 3 Name]*
+* *John Jones*
+* *Sean Acceus*
+* *Omotola Alalade*
